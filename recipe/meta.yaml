@@ -1,6 +1,6 @@
 {% set name = "xonda" %}
-{% set version = "0.2.5" %}
-{% set sha256 = "2f6181e406431655ce2a8c03affcf139c6a9cf6c62058aede063411faa007cf9" %}
+{% set version = "0.8.0" %}
+{% set sha256 = "d02014bfd31968db95041e66931cb0a2210f8297a55478459b254cc25266fe67" %}
 
 package:
   name: {{ name|lower }}
